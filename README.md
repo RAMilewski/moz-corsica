@@ -66,5 +66,5 @@ To develop and test this project, you'll need [Node.js](https://nodejs.org/).
 
 Bootstrap the development environment by running `script/bootstrap`.
 
-Start a local HTTP server by running `npm start`.
+Start a local HTTP server by running `node node_modules/corsica/index.js`.
 Then, connect to the server at the address listed.
